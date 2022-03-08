@@ -1,0 +1,55 @@
+body{
+    background-image:url("https://images.unsplash.com/photo-1594574468389-47556c295d5e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80");
+    background-size:cover;
+    text-align:center;
+}
+body{
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    border-radius:30px;
+    border: 1px solid rgba( 254, 254, 254, 0.18 );
+    width:55%;
+    position:absolute;
+    margin-top:180px;
+    margin-left:370px;
+    align-items:center;
+}
+.heading{
+    text-align:center;
+    font-size: 20px;
+    
+}
+.mssg{
+    margin-left: 100px;
+    margin-bottom:30px;
+    font-size: 20px;
+}
+input{
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 5px 100px;
+}
+button{
+    border-radius: 50px;
+}
+.btn{
+    position:relative;
+    left:28%;
+    margin-bottom:20px;
+    margin-top:20px;
+}
+button:hover{
+    background-color:rgb(23, 205, 231);
+}
+#smart-button-container input:hover{
+    background-color: #eabf9f;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(163, 145, 145);
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
